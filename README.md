@@ -2,7 +2,7 @@
 
 ## Description
 
-This was code that I refactored to have higher levels of accessibility and improved SEO.
+This is code that I refactored to have higher levels of accessibility and improved SEO.
 
 ## Installation
 
